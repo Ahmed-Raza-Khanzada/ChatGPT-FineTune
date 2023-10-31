@@ -1,0 +1,11 @@
+api_credentials.py
+Final_Ticket_messages.json
+model_data_All_fields.json
+training_data_710.jsonl
+validation_data_79.jsonl
+wr-osticket-db202310180500.sql
+database_structure.sql
+get_model.py
+split_data.py
+test.py
+test2.py
