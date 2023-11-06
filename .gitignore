@@ -1,6 +1,7 @@
 api_credentials.py
-Final_Ticket_messages.json
-model_data_All_fields.json
+*.jsonl
+*.sql
+*.json
 training_data_710.jsonl
 validation_data_79.jsonl
 wr-osticket-db202310180500.sql
